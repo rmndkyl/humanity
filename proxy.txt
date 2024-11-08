@@ -1,1 +1,4 @@
+http://username:passwd@ip:port
+socks5://username:passwd@ip:port
 
+# THIS IS OPTIONAL, YOU CAN STILL USE THE SCRIPT WITHOUT PROXY
